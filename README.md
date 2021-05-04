@@ -60,7 +60,7 @@ Você pode consultar a lista de emojis disponíveis neste [link](https://emoji-c
 Faça o commit do seu arquivo de usuário com a seguinte mensagem: "Adicionado arquivo referente ao usuário USERNAME".
 
 Em seguida, realize o push das modificações para sincronizá-las com o GitHub.
-Se tudo estiver corrido bem, você conseguirá visualizar a página com seu usuário no seguinte link: `https://USERNAME.github.io/E00-Tutorial-Git-GitHub`.
+Se tudo estiver corrido bem, você conseguirá visualizar a página com seu usuário no seguinte link: `https://REPOSITORIO_DISCIPLINA.github.io/E00-Tutorial-Git-GitHub`.
 
 **Tarefa: Faça o commit e push das modificações realizadas no repositório.**
 
