@@ -30,6 +30,12 @@ ul {
   }
 }
 
+section::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .js-avatar {
   $size: 135px;
 
